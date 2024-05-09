@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\sbarb\Desktop\PacmanProject (8)\PacmanProject\game.cpp(150,6): warning C4101: 'i': unreferenced local variable
+  PacmanProject.vcxproj -> C:\Users\sbarb\Desktop\PacmanProject (8)\x64\Debug\PacmanProject.exe

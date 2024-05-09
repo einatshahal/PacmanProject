@@ -1,0 +1,24 @@
+The format of steps file:
+(1) direction of pacman.
+(2) direction of all the ghost (appears in every second time).
+(3) if the fruit is show on the screen (1-the fruit is show, 0-the fruit is not show).
+(4) the value of the fruit (5-9).
+(5) the x position of the fruit.
+(6) the y position of the fruit.
+
+for exaple:
+83 87 1 6 18 3
+83 1 6 18 3
+.
+.
+.
+
+_______________________________________________________________________________________________________
+The format of result file:
+(1) all the points of time tht the pacman eaten by a ghost
+(2) the point of time that the game is end
+(3) the reason of ending the game (0-GameOver, 1-Winning, 2-exit with the key 'g').
+
+for exaple:
+26
+1
